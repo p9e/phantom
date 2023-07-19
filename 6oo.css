@@ -3,6 +3,7 @@
   color: rebeccapurple;
 }
 
+a,
 :any-link {
   box-shadow: 0 0 2em 1em coral;
   background: coral;

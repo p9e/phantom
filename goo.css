@@ -4,8 +4,11 @@
 
 a {
   border-radius: 30%;
-  display: inline-flex;
-  text-decoration: dotted line-through;
+  display: inline-block;
+}
+
+:any-link {
+  text-decoration-style: dotted;
 }
 
 html {
@@ -56,7 +59,7 @@ nav {
 }
 
 h1 {
-  text-align: center;
+  text-align: end;
   line-height: 1;
   margin: 5vh;
 }
